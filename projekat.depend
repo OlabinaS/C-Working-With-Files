@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1642722654 source:c:\users\stefa\onedrive\desktop\bp1 z4\projekat\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operacije.h"
+
+1642709571 c:\users\stefa\onedrive\desktop\bp1 z4\projekat\operacije.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/types.h>
+	"slog.h"
+
+1642162390 c:\users\stefa\onedrive\desktop\bp1 z4\projekat\slog.h
+
+1642722765 source:c:\users\stefa\onedrive\desktop\bp1 z4\projekat\operacije.c
+	"operacije.h"
+
+1642726254 source:e:\predmeti\5. semestar x\baze podataka 1  xxx\bp1 z4 c\projekat\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operacije.h"
+
+1642713171 e:\predmeti\5. semestar x\baze podataka 1  xxx\bp1 z4 c\projekat\operacije.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/types.h>
+	"slog.h"
+
+1642165990 e:\predmeti\5. semestar x\baze podataka 1  xxx\bp1 z4 c\projekat\slog.h
+
+1642726365 source:e:\predmeti\5. semestar x\baze podataka 1  xxx\bp1 z4 c\projekat\operacije.c
+	"operacije.h"
+
